@@ -1,4 +1,4 @@
-package com.jtk.basic.javaToKotlin.oopDesigning.classAndProperty;
+package com.jtk.basic.javaToKotlin.oop.classAndProperty;
 
 public class JavaPerson {
 

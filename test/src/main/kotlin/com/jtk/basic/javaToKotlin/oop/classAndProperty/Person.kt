@@ -1,7 +1,4 @@
-package com.jtk.basic.javaToKotlin.oopDesigning.classAndProperty
-
-import com.jtk.basic.javaToKotlin.naming.kotlinType.person
-
+package com.jtk.basic.javaToKotlin.oop.classAndProperty
 
 
 fun main() {
