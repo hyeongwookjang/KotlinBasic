@@ -1,4 +1,4 @@
-package com.jtk.basic.javaToKotlin.coding.conditionStatement.forLoop
+package com.jtk.basic.javaToKotlin.coding.forLoop
 
 fun main() {
     val numbers = listOf(1L, 2L, 3L)

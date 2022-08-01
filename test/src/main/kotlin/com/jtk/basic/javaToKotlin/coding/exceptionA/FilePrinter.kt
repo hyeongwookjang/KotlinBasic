@@ -1,4 +1,4 @@
-package com.jtk.basic.javaToKotlin.coding.conditionStatement.exceptionA
+package com.jtk.basic.javaToKotlin.coding.exceptionA
 
 import java.io.BufferedReader
 import java.io.FileReader
@@ -16,7 +16,7 @@ import java.io.FileReader
 
 // try with resources가 사라지고 .use 인라인 확장함수를 사용한다.
 
-class FilePrinter2 {
+class FilePrinter {
     fun readFile(path: String) {
         BufferedReader(FileReader(path)).use { reader ->
             println(reader.readLine())

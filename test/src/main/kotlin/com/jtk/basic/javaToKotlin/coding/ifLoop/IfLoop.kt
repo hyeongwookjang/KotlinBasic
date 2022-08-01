@@ -1,4 +1,4 @@
-package com.jtk.basic.javaToKotlin.coding.conditionStatement.ifLoop
+package com.jtk.basic.javaToKotlin.coding.ifLoop
 
 
 /*

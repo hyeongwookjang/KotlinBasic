@@ -1,4 +1,4 @@
-package com.jtk.basic.javaToKotlin.coding.conditionStatement.ifLoop
+package com.jtk.basic.javaToKotlin.coding.ifLoop
 
 fun getGradeWithSwitch(score: Int): String {
     return when (score/10) {

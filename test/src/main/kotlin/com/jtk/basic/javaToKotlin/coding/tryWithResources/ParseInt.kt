@@ -1,5 +1,4 @@
-package com.jtk.basic.javaToKotlin.coding.conditionStatement.exceptionA
-
+package com.jtk.basic.javaToKotlin.coding.tryWithResources
 fun parseIntOrThrow(str: String): Int {
     try {
         return str.toInt()
