@@ -1,4 +1,4 @@
-package com.jtk.test.lecture.kotype
+package com.jtk.basic.javaToKotlin.naming.kotlinType
 
 fun main() {
     val number1 =3

@@ -1,8 +1,5 @@
-package com.jtk.test.lecture;
+package com.jtk.basic.javaToKotlin.naming;
 
-
-import org.jetbrains.annotations.NotNull;
-import org.jetbrains.annotations.Nullable;
 
 public class Person {
 

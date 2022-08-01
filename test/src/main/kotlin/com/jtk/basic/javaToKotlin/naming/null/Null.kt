@@ -1,4 +1,4 @@
-package com.jtk.test.lecture
+package com.jtk.basic.javaToKotlin
 
 /**
 1. Kotlin 에서의 null 체크

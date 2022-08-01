@@ -1,4 +1,4 @@
-package com.jtk.test.lecture.operator
+package com.jtk.basic.javaToKotlin.naming.operator
 
 fun main() {
 

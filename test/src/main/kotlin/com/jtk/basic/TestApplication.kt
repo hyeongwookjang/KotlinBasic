@@ -1,4 +1,4 @@
-package com.jtk.test
+package com.jtk.basic
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

@@ -1,4 +1,6 @@
-package com.jtk.test.lecture
+package com.jtk.basic.javaToKotlin
+
+import com.jtk.basic.javaToKotlin.naming.Person
 
 
 fun main() {

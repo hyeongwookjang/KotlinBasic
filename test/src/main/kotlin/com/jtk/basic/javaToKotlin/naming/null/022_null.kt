@@ -1,4 +1,4 @@
-package com.jtk.test.lecture
+package com.jtk.basic.javaToKotlin
 
 fun main() {
     println(startsWith(null))

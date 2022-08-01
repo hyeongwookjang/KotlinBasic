@@ -1,6 +1,6 @@
-package com.jtk.test.lecture.kotype
+package com.jtk.basic.javaToKotlin.naming.kotlinType
 
-import com.jtk.test.lecture.Person
+import com.jtk.basic.javaToKotlin.naming.Person
 
 
 /**
