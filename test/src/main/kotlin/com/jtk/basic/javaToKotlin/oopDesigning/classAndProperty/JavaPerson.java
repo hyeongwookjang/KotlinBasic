@@ -8,6 +8,9 @@ public class JavaPerson {
     public JavaPerson(String name, int age) {
         this.name = name;
         this.age = age;
+        if (this.age <= 0) {
+            throw new IllegalStateException(String.format("나이는 %s일 수 없습니다."));
+        }
     }
 
     public String getName() {
