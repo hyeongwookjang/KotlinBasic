@@ -1,4 +1,4 @@
-package com.jtk.basic.javaToKotlin.functionalProgramming;
+package com.jtk.basic.javaToKotlin.functionalProgramming.collections;
 
 public class JavaArray {
     public static void main(String[] args) {

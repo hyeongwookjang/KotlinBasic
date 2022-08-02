@@ -1,4 +1,4 @@
-package com.jtk.basic.javaToKotlin.functionalProgramming
+package com.jtk.basic.javaToKotlin.functionalProgramming.collections
 
 // List<Int?>        o x 리스트에 null이 들어갈 수 있지만, 리스트는 null일 수 없음
 // List<Int>?        x o 리스트에 null이 들어갈 수 없지만, 리스트는 null일 수 있음

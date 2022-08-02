@@ -1,4 +1,4 @@
-package com.jtk.basic.javaToKotlin.functionalProgramming
+package com.jtk.basic.javaToKotlin.functionalProgramming.collections
 
 fun main() {
 

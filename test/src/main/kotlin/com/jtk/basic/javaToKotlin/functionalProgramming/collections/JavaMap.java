@@ -1,4 +1,4 @@
-//package com.jtk.basic.javaToKotlin.functionalProgramming;
+package com.jtk.basic.javaToKotlin.functionalProgramming.collections;//package com.jtk.basic.javaToKotlin.functionalProgramming;
 //
 //import java.util.HashMap;
 //import java.util.Map;
